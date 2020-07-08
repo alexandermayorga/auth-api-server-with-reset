@@ -1,5 +1,5 @@
 {
-  "name": "react-auth-with-reset",
+  "name": "auth-api-server-with-reset",
   "author": "Alexander Mayorga",
   "description": "Authentication Server with Forgot Password Functionality",
   "license": "ISC",
